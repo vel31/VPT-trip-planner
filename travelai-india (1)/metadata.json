@@ -1,0 +1,6 @@
+{
+  "name": "TravelAI India",
+  "description": "Production-ready AI India travel assistant with Google Maps Platform (Directions API, Geocoding API, Places API, Maps JavaScript API), verified heritage sites, luxury stays, culinary gems, and Gemini AI trip planning.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
